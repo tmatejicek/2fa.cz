@@ -20,12 +20,6 @@ defaults:
       layout: "post"
 
 future: true
-
-gems:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-feed
   
 plugins:
   - jekyll-seo-tag
