@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| Web/Služba | Odkaz na postup zapnutí dvoufaktorové ověřování |
+| Web/Služba | Odkaz na postup zapnutí dvoufaktorového ověřování |
 |:-|:-|
 | Apple ID | [Dvoufaktorové ověřování Apple ID](https://support.apple.com/cs-cz/HT204915) |
 | Centrum Mail | [Dvoufaktorové ověřování](https://freemail.help.economia.cz/articles/95769-prvotni-nastaveni-2fa) |
