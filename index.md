@@ -33,9 +33,8 @@ services: [
     },
     {
         "name":"Seznam",
-        "title":"Zapnutí dvoufázového ověření",
-        "href":"https://napoveda.seznam.cz/cz/login/zapnuti-dvoufazoveho-overeni/",
-        "note":"Pro zapnutí dvoufázového ověření je zapotřebí mít nainstalovaný Seznam.cz prohlížeč",
+        "title":"Co je dvoufázové ověření?",
+        "href":"https://napoveda.seznam.cz/cz/login/dvoufazove-overeni/",
     },
     {
         "name":"X (Twitter)",
